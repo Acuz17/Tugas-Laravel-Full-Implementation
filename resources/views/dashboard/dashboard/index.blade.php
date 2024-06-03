@@ -4,7 +4,7 @@
 @section('content')
 <div class="row justify-content-center mt-5">
     <div class="col-md-4 border p-4 rounded">
-        <h1 class="h3 mb-3 fw-normal text-center">Halaman Dashboard {{ $user->name }}</h1>
+        <h1 class="h3 mb-3 fw-normal text-center">Hlaman Dashboard {{ $user->name }}</h1>
 
         <div class="d-flex justify-content-between">
             <div class="w-50">
